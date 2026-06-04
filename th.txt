@@ -1,0 +1,48 @@
+HTML --> Hyper text markup language.
+            - hyper text --> link
+            markup language --> encoding
+
+Founder of html?
+- Tim berners-lee
+
+
+html 1 --> 1991
+html 2 --> 1995
+html 3 --> (jan , 1997) - faiure
+html 4 --> (dec , 1997) - 4.2 --> 2000
+html 5 --> 2014 -- 5.2 --> 2017
+
+
+html release?
+1993 --> first website -> https://info.cern.ch 
+
+html extensions? 
+- .html/.htm 
+
+
+html use?
+- To create a static structure of website or webpages. 
+
+
+html run?
+-browser / client side   
+
+
+
+
+html structure?
+<html>
+<head>
+    <title>First Program</title>
+</head>
+<body>
+
+
+</body>
+</html>
+
+
+Naming convention:
+- first.html
+- first_program.html
+- firstProgram.html
